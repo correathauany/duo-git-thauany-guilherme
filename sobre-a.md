@@ -1,0 +1,1 @@
+Oi, eu sou a Thauany e estou cursando TSI.
