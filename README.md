@@ -1,1 +1,1 @@
-# duo-git-thauany-guilherme
+# Repositório da dupla Thauany e Guilherme
